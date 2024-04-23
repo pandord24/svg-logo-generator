@@ -8,7 +8,7 @@ An application that prompts user to select details and then generate a svg file.
 - My motivation is to learn more about Jest and Inquirer.
 - I built this project to improve my code writing skill. 
 - By applying proper testing with Jest, it is more organized and easily to identify problems. 
-- I learned ways to structure Jest Inquirer.
+- I learned ways to structure Jest and Inquirer.
 
 ## Credits
 
